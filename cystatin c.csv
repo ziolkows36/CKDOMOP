@@ -1,0 +1,8 @@
+Concept Set ID,Name,Concept ID,Concept Code,Concept Name,Domain,Vocabulary,Standard Concept
+999,cystatin c,4136584,412843006,Blood cystatin C measurement,Measurement,SNOMED,S
+999,cystatin c,2000023570,CYSTATIN C,CYSTATIN C,Measurement,STANFORD_MEAS,N
+999,cystatin c,2000023571,CYSTATIN C (MANUAL ENTRY) SEE EMR FOR DETAILS,CYSTATIN C (MANUAL ENTRY) SEE EMR FOR DETAILS,Measurement,STANFORD_MEAS,N
+999,cystatin c,3030366,33863-2,Cystatin C [Mass/volume] in Serum or Plasma,Measurement,LOINC,S
+999,cystatin c,37208600,1.10704E+15,Cystatin C mass concentration in serum,Measurement,SNOMED,S
+999,cystatin c,37392318,1.00256E+15,Serum cystatin C level,Measurement,SNOMED,S
+999,cystatin c,4248803,408650007,Serum cystatin C measurement,Measurement,SNOMED,S

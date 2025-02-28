@@ -1,0 +1,25 @@
+Concept Set ID,Name,Concept ID,Concept Code,Concept Name,Domain,Vocabulary,Standard Concept
+993,creatinine,3051825,38483-4,Creatinine [Mass/volume] in Blood,Measurement,LOINC,S
+993,creatinine,3016723,2160-0,Creatinine [Mass/volume] in Serum or Plasma,Measurement,LOINC,S
+993,creatinine,3019397,16188-5,Creatinine [Mass/volume] in Serum or Plasma --2 hour specimen,Measurement,LOINC,S
+993,creatinine,3035090,16189-3,Creatinine [Mass/volume] in Serum or Plasma --4 hour specimen,Measurement,LOINC,S
+993,creatinine,3041716,40248-7,Creatinine [Mass/volume] in Serum or Plasma --baseline,Measurement,LOINC,S
+993,creatinine,3018968,11041-1,Creatinine [Mass/volume] in Serum or Plasma --post dialysis,Measurement,LOINC,S
+993,creatinine,43055236,72271-0,Creatinine [Mass/volume] in Serum or Plasma --pre contrast,Measurement,LOINC,S
+993,creatinine,3022243,11042-9,Creatinine [Mass/volume] in Serum or Plasma --pre dialysis,Measurement,LOINC,S
+993,creatinine,40762887,59826-8,Creatinine [Moles/volume] in Blood,Measurement,LOINC,S
+993,creatinine,3020564,14682-9,Creatinine [Moles/volume] in Serum or Plasma,Measurement,LOINC,S
+993,creatinine,3041735,40264-4,Creatinine [Moles/volume] in Serum or Plasma --baseline,Measurement,LOINC,S
+993,creatinine,3040209,51620-3,Creatinine [Moles/volume] in Serum or Plasma --post dialysis,Measurement,LOINC,S
+993,creatinine,3040495,51619-5,Creatinine [Moles/volume] in Serum or Plasma --pre dialysis,Measurement,LOINC,S
+993,creatinine,46235076,77140-2,"Creatinine [Moles/volume] in Serum, Plasma or Blood",Measurement,LOINC,S
+993,creatinine,3045262,45066-8,"Creatinine and Glomerular filtration rate.predicted panel - Serum, Plasma or Blood",Measurement,LOINC,S
+993,creatinine,3043954,39802-4,Creatinine in dialysis fluid/Creatinine in serum or plasma,Measurement,LOINC,S
+993,creatinine,4324383,70901006,Creatinine measurement,Measurement,SNOMED,S
+993,creatinine,4013964,113075003,"Creatinine measurement, serum",Measurement,SNOMED,S
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,2212294,,,,,
